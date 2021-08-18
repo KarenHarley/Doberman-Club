@@ -33,4 +33,4 @@ https://karenharley.github.io/Doberman-Club/
 
 ## Contact Info 
 
-karen.pretzel.365@gmail.com
+KarenHarley88@gmail.com
