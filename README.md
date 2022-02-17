@@ -17,7 +17,12 @@ This Website was my first! It has a clean beginner layout and if you click on th
 # Website
 
 ![webpage top](./pics/pic1.png)
-Lower part
+
+<br/>
+
+## Lower part
+
+<br/>
 
 ![webpage bottom](./pics/pic2.png)
 
