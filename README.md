@@ -2,7 +2,7 @@
 
 # Doberman-Club
 
-Static HTML and CSS page
+This is a Static HTML and CSS page that displays a page about a doberman club.
 
 ## Features:
 
