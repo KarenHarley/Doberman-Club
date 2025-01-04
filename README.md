@@ -11,8 +11,8 @@ This Website was my first! It has a clean beginner layout and if you click on th
 
 # Technologies used
 
-2. CSS
-3. HTML
+1. CSS
+2. HTML
 
 # Website
 
