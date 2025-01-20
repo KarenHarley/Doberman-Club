@@ -30,11 +30,11 @@ This Website was my first! It has a clean beginner layout and if you click on th
 
 #### Github
 
-https://github.com/KarenHarley/Doberman-Club
+`https://github.com/KarenHarley/Doberman-Club`
 
 #### Website
 
-https://karenharley.github.io/Doberman-Club/
+`https://karenharley.github.io/Doberman-Club/`
 
 ## Contact Info 
 
